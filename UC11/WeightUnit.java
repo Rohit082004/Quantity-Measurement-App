@@ -1,7 +1,5 @@
 package UC11;
 
-import UC10.IMeasurable;
-
 public enum WeightUnit implements IMeasurable {
     MILLIGRAM(0.000001),
     GRAM(0.001),
